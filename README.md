@@ -1,13 +1,9 @@
-# Daily Life Projects
+# 生活项目灵感
 
-This repository is a small collection space for daily-life ideas, experiments, and projects found or inspired by GitHub.
+收集日常生活里的小项目、实验想法和可复用参考。
 
-## Purpose
+## 内容
 
-- Keep useful project references in one place
-- Record small experiments and notes
-- Save ideas that may become future projects
-
-## Status
-
-This repository is currently a lightweight index. More notes or project summaries can be added as the collection grows.
+- 有趣项目记录
+- 小实验笔记
+- 未来可继续做的灵感
